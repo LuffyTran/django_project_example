@@ -1,3 +1,11 @@
+# Install poetry
+```
+sudo apt install python3.8-distutils
+wget https://bootstrap.pypa.io/get-pip.py
+python get_pip.py
+python -m pip install -r requirentment
+```
+
 # Command Description
 ```
 poetry install
